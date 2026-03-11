@@ -1,8 +1,8 @@
-# 🔥 Fire and Smoke Detection using YOLO11
+# 🔥 AI-Based-Fire-Smoke-Detection-System-Using-CV
 
 <div align="center">
 
-**An Industrial-Grade Fire and Smoke Detection System powered by YOLO11**
+**An Industrial-Grade Fire-Smoke-Detection-System-Using-CV**
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)
