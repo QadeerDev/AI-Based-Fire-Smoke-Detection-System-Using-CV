@@ -216,8 +216,8 @@ close_mosaic: 10      # Disable mosaic in last 10 epochs
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/SahiL911999/Fire-Smoke-Detection-using-YOLO11.git
-cd Fire-Smoke-Detection-using-YOLO11
+git clone https://github.com/QadeerDev/AI-Based-Fire-Smoke-Detection-System-Using-CV.git
+cd AI-Based-Fire-Smoke-Detection-System-Using-CV
 ```
 
 2. **Install Dependencies**
@@ -499,7 +499,7 @@ Special thanks to the following organizations and researchers for making their d
 
 ## 👨‍💻 Author
 
-**Sahil Ranmbail**
+**Qadeer Dev**
 
 This project represents a comprehensive effort in developing industrial-grade fire and smoke detection capabilities using state-of-the-art deep learning techniques. From meticulous dataset curation to optimized model training, every aspect has been carefully designed for real-world deployment.
 
